@@ -9,6 +9,7 @@ This project is a simple implementation of the classic Tic Tac Toe game using Re
 Check out a quick demo of the game:
 <video width="320" height="240" controls>
   <source src="https://https://www.dropbox.com/scl/fi/1pht87uwq3gc0mj0ann28/Screencast-from-11-18-2023-12-05-31-AM.webm?rlkey=tfpk41e139l0uerw6oljrfyxy&dl=0/raw=1" type="video/mp4">
+  not working hihi
 </video>
 
 ## Getting Started
@@ -21,10 +22,10 @@ Make sure you have Node.js and npm installed on your machine.
 
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/) (npm is included with Node.js)
-   
-    ```bash
-      $ npm install 
-     ```
+
+```bash
+        $ npm install
+```
 
 ### Installing
 
