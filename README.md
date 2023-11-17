@@ -7,10 +7,8 @@ This project is a simple implementation of the classic Tic Tac Toe game using Re
 ## Demo
 
 Check out a quick demo of the game:
-<video width="320" height="240" controls>
-  <source src="https://https://www.dropbox.com/scl/fi/1pht87uwq3gc0mj0ann28/Screencast-from-11-18-2023-12-05-31-AM.webm?rlkey=tfpk41e139l0uerw6oljrfyxy&dl=0/raw=1" type="video/mp4">
-  not working hihi
-</video>
+
+[![Tic Tac Toe Demo](link-to-thumbnail-image.png)](https://www.dropbox.com/scl/fi/1pht87uwq3gc0mj0ann28/Screencast-from-11-18-2023-12-05-31-AM.webm?rlkey=tfpk41e139l0uerw6oljrfyxy&dl=0)
 
 ## Getting Started
 
@@ -46,8 +44,7 @@ Run it
 $ npm start 
 ```
 Open your browser and go to http://localhost:3000 to play the Tic Tac Toe game.
-
-###How to Play
+### How to Play
 Players take turns to place their "X" or "O" on the board.
 The game announces the winner or a draw when the game is over.
 Enjoy playing Tic Tac Toe!
