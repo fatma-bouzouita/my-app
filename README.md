@@ -4,7 +4,6 @@ This project is a simple implementation of the classic Tic Tac Toe game using Re
  It was bootstrapped with Create React App.
  
 ## Demo
-
 Check out a quick demo of the game:
 
 [![Tic Tac Toe Demo](link-to-thumbnail-image.png)](https://www.dropbox.com/scl/fi/1pht87uwq3gc0mj0ann28/Screencast-from-11-18-2023-12-05-31-AM.webm?rlkey=tfpk41e139l0uerw6oljrfyxy&dl=0)
